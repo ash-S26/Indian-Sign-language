@@ -19,7 +19,7 @@ ____________
       
 # How to run the code
 _______________________
-    1) git clone 
+    1) git clone https://github.com/ash-S26/Indian-Sign-language.git
     2) python HAND_GESTURE_DETECTION.py
     
 # Results
