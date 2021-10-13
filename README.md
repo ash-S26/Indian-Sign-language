@@ -20,7 +20,7 @@ ____________
 # How to run the code
 _______________________
     1) git clone 
-    2) python 
+    2) python HAND_GESTURE_DETECTION.py
     
 # Results
 ___________
